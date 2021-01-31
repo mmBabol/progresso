@@ -1,0 +1,1747 @@
+index page
+e
+
+
+index pageindex pagelogin pagelogin pagelogin pagelogin pagelogin pagelogin pagetesting testing|testing testing|Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_CONNECTION] => keep-alive
+    [CONTENT_LENGTH] => 59
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Raspbian Chromium/78.0.3904.108 Chrome/78.0.3904.108 Safari/537.36
+    [HTTP_SEC_FETCH_USER] => ?1
+    [HTTP_ORIGIN] => http://localhost
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+    [HTTP_SEC_FETCH_SITE] => same-origin
+    [HTTP_SEC_FETCH_MODE] => navigate
+    [HTTP_REFERER] => http://localhost/register.phtml
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => en-GB,en-US;q=0.9,en;q=0.8
+    [HTTP_COOKIE] => _ga=GA1.1.719627613.1586733524; PHPSESSID=don7tolec1s7jkholjeqe2mrkq
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.38 (Raspbian) Server at localhost Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.38 (Raspbian)
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => ::1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => ::1
+    [DOCUMENT_ROOT] => /var/www/html
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/html/register.phtml
+    [REMOTE_PORT] => 36660
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /register.phtml
+    [SCRIPT_NAME] => /register.phtml
+    [PHP_SELF] => /register.phtml
+    [REQUEST_TIME_FLOAT] => 1606163860.529
+    [REQUEST_TIME] => 1606163860
+)
+testing testing|Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_CONNECTION] => keep-alive
+    [CONTENT_LENGTH] => 59
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_ORIGIN] => http://localhost
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_USER_AGENT] => Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Raspbian Chromium/78.0.3904.108 Chrome/78.0.3904.108 Safari/537.36
+    [HTTP_SEC_FETCH_USER] => ?1
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+    [HTTP_SEC_FETCH_SITE] => same-origin
+    [HTTP_SEC_FETCH_MODE] => navigate
+    [HTTP_REFERER] => http://localhost/register.phtml
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => en-GB,en-US;q=0.9,en;q=0.8
+    [HTTP_COOKIE] => _ga=GA1.1.719627613.1586733524; PHPSESSID=don7tolec1s7jkholjeqe2mrkq
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.38 (Raspbian) Server at localhost Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.38 (Raspbian)
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => ::1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => ::1
+    [DOCUMENT_ROOT] => /var/www/html
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/html/register.phtml
+    [REMOTE_PORT] => 36932
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /register.phtml
+    [SCRIPT_NAME] => /register.phtml
+    [PHP_SELF] => /register.phtml
+    [REQUEST_TIME_FLOAT] => 1606163893.401
+    [REQUEST_TIME] => 1606163893
+)
+testing testing|Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_CONNECTION] => keep-alive
+    [CONTENT_LENGTH] => 62
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_ORIGIN] => http://localhost
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_USER_AGENT] => Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Raspbian Chromium/78.0.3904.108 Chrome/78.0.3904.108 Safari/537.36
+    [HTTP_SEC_FETCH_USER] => ?1
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+    [HTTP_SEC_FETCH_SITE] => same-origin
+    [HTTP_SEC_FETCH_MODE] => navigate
+    [HTTP_REFERER] => http://localhost/register.phtml
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => en-GB,en-US;q=0.9,en;q=0.8
+    [HTTP_COOKIE] => _ga=GA1.1.719627613.1586733524; PHPSESSID=don7tolec1s7jkholjeqe2mrkq
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.38 (Raspbian) Server at localhost Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.38 (Raspbian)
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => ::1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => ::1
+    [DOCUMENT_ROOT] => /var/www/html
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/html/register.phtml
+    [REMOTE_PORT] => 37010
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /register.phtml
+    [SCRIPT_NAME] => /register.phtml
+    [PHP_SELF] => /register.phtml
+    [REQUEST_TIME_FLOAT] => 1606163903.402
+    [REQUEST_TIME] => 1606163903
+)
+testing testing|Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_CONNECTION] => keep-alive
+    [CONTENT_LENGTH] => 62
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Raspbian Chromium/78.0.3904.108 Chrome/78.0.3904.108 Safari/537.36
+    [HTTP_SEC_FETCH_USER] => ?1
+    [HTTP_ORIGIN] => http://localhost
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+    [HTTP_SEC_FETCH_SITE] => same-origin
+    [HTTP_SEC_FETCH_MODE] => navigate
+    [HTTP_REFERER] => http://localhost/register.phtml
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => en-GB,en-US;q=0.9,en;q=0.8
+    [HTTP_COOKIE] => _ga=GA1.1.719627613.1586733524; PHPSESSID=don7tolec1s7jkholjeqe2mrkq
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.38 (Raspbian) Server at localhost Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.38 (Raspbian)
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => ::1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => ::1
+    [DOCUMENT_ROOT] => /var/www/html
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/html/register.phtml
+    [REMOTE_PORT] => 37248
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /register.phtml
+    [SCRIPT_NAME] => /register.phtml
+    [PHP_SELF] => /register.phtml
+    [REQUEST_TIME_FLOAT] => 1606163931.014
+    [REQUEST_TIME] => 1606163931
+)
+Array
+(
+    [username] => test123
+    [password] => hello1234
+    [confirm_password] => hello1234
+)
+testing testing|Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_CONNECTION] => keep-alive
+    [CONTENT_LENGTH] => 62
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_ORIGIN] => http://localhost
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_USER_AGENT] => Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Raspbian Chromium/78.0.3904.108 Chrome/78.0.3904.108 Safari/537.36
+    [HTTP_SEC_FETCH_USER] => ?1
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+    [HTTP_SEC_FETCH_SITE] => same-origin
+    [HTTP_SEC_FETCH_MODE] => navigate
+    [HTTP_REFERER] => http://localhost/register.phtml
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => en-GB,en-US;q=0.9,en;q=0.8
+    [HTTP_COOKIE] => _ga=GA1.1.719627613.1586733524; PHPSESSID=don7tolec1s7jkholjeqe2mrkq
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.38 (Raspbian) Server at localhost Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.38 (Raspbian)
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => ::1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => ::1
+    [DOCUMENT_ROOT] => /var/www/html
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/html/register.phtml
+    [REMOTE_PORT] => 37248
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /register.phtml
+    [SCRIPT_NAME] => /register.phtml
+    [PHP_SELF] => /register.phtml
+    [REQUEST_TIME_FLOAT] => 1606163933.527
+    [REQUEST_TIME] => 1606163933
+)
+Array
+(
+    [username] => test123
+    [password] => hello1234
+    [confirm_password] => hello1234
+)
+testing testing|Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Raspbian Chromium/78.0.3904.108 Chrome/78.0.3904.108 Safari/537.36
+    [HTTP_SEC_FETCH_USER] => ?1
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+    [HTTP_SEC_FETCH_SITE] => same-origin
+    [HTTP_SEC_FETCH_MODE] => navigate
+    [HTTP_REFERER] => http://localhost/
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => en-GB,en-US;q=0.9,en;q=0.8
+    [HTTP_COOKIE] => _ga=GA1.1.719627613.1586733524; PHPSESSID=don7tolec1s7jkholjeqe2mrkq
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.38 (Raspbian) Server at localhost Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.38 (Raspbian)
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => ::1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => ::1
+    [DOCUMENT_ROOT] => /var/www/html
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/html/register.phtml
+    [REMOTE_PORT] => 39978
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /register.phtml
+    [SCRIPT_NAME] => /register.phtml
+    [PHP_SELF] => /register.phtml
+    [REQUEST_TIME_FLOAT] => 1606164280.395
+    [REQUEST_TIME] => 1606164280
+)
+Array
+(
+)
+testing testing|Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_CONNECTION] => keep-alive
+    [CONTENT_LENGTH] => 49
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_ORIGIN] => http://localhost
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_USER_AGENT] => Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Raspbian Chromium/78.0.3904.108 Chrome/78.0.3904.108 Safari/537.36
+    [HTTP_SEC_FETCH_USER] => ?1
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+    [HTTP_SEC_FETCH_SITE] => same-origin
+    [HTTP_SEC_FETCH_MODE] => navigate
+    [HTTP_REFERER] => http://localhost/register.phtml
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => en-GB,en-US;q=0.9,en;q=0.8
+    [HTTP_COOKIE] => _ga=GA1.1.719627613.1586733524; PHPSESSID=don7tolec1s7jkholjeqe2mrkq
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.38 (Raspbian) Server at localhost Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.38 (Raspbian)
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => ::1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => ::1
+    [DOCUMENT_ROOT] => /var/www/html
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/html/register.phtml
+    [REMOTE_PORT] => 40956
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /register.phtml
+    [SCRIPT_NAME] => /register.phtml
+    [PHP_SELF] => /register.phtml
+    [REQUEST_TIME_FLOAT] => 1606164369.54
+    [REQUEST_TIME] => 1606164369
+)
+Array
+(
+    [username] => test
+    [password] => test
+    [confirm_password] => test
+)
+testing testing|Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_CONNECTION] => keep-alive
+    [CONTENT_LENGTH] => 49
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Raspbian Chromium/78.0.3904.108 Chrome/78.0.3904.108 Safari/537.36
+    [HTTP_SEC_FETCH_USER] => ?1
+    [HTTP_ORIGIN] => http://localhost
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+    [HTTP_SEC_FETCH_SITE] => same-origin
+    [HTTP_SEC_FETCH_MODE] => navigate
+    [HTTP_REFERER] => http://localhost/register.phtml
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => en-GB,en-US;q=0.9,en;q=0.8
+    [HTTP_COOKIE] => _ga=GA1.1.719627613.1586733524; PHPSESSID=don7tolec1s7jkholjeqe2mrkq
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.38 (Raspbian) Server at localhost Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.38 (Raspbian)
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => ::1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => ::1
+    [DOCUMENT_ROOT] => /var/www/html
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/html/register.phtml
+    [REMOTE_PORT] => 41348
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /register.phtml
+    [SCRIPT_NAME] => /register.phtml
+    [PHP_SELF] => /register.phtml
+    [REQUEST_TIME_FLOAT] => 1606164418.227
+    [REQUEST_TIME] => 1606164418
+)
+Array
+(
+    [username] => test
+    [password] => test
+    [confirm_password] => test
+)
+testing testing|Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_CONNECTION] => keep-alive
+    [CONTENT_LENGTH] => 64
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_ORIGIN] => http://localhost
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_USER_AGENT] => Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Raspbian Chromium/78.0.3904.108 Chrome/78.0.3904.108 Safari/537.36
+    [HTTP_SEC_FETCH_USER] => ?1
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+    [HTTP_SEC_FETCH_SITE] => same-origin
+    [HTTP_SEC_FETCH_MODE] => navigate
+    [HTTP_REFERER] => http://localhost/register.phtml
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => en-GB,en-US;q=0.9,en;q=0.8
+    [HTTP_COOKIE] => _ga=GA1.1.719627613.1586733524; PHPSESSID=don7tolec1s7jkholjeqe2mrkq
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.38 (Raspbian) Server at localhost Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.38 (Raspbian)
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => ::1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => ::1
+    [DOCUMENT_ROOT] => /var/www/html
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/html/register.phtml
+    [REMOTE_PORT] => 41348
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /register.phtml
+    [SCRIPT_NAME] => /register.phtml
+    [PHP_SELF] => /register.phtml
+    [REQUEST_TIME_FLOAT] => 1606164421.593
+    [REQUEST_TIME] => 1606164421
+)
+Array
+(
+    [username] => test
+    [password] => sdf
+    [confirm_password] => test
+    [pgType] => register
+)
+testing testing|Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_CONNECTION] => keep-alive
+    [CONTENT_LENGTH] => 64
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Raspbian Chromium/78.0.3904.108 Chrome/78.0.3904.108 Safari/537.36
+    [HTTP_SEC_FETCH_USER] => ?1
+    [HTTP_ORIGIN] => http://localhost
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+    [HTTP_SEC_FETCH_SITE] => same-origin
+    [HTTP_SEC_FETCH_MODE] => navigate
+    [HTTP_REFERER] => http://localhost/register.phtml
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => en-GB,en-US;q=0.9,en;q=0.8
+    [HTTP_COOKIE] => _ga=GA1.1.719627613.1586733524; PHPSESSID=don7tolec1s7jkholjeqe2mrkq
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.38 (Raspbian) Server at localhost Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.38 (Raspbian)
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => ::1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => ::1
+    [DOCUMENT_ROOT] => /var/www/html
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/html/register.phtml
+    [REMOTE_PORT] => 43412
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /register.phtml
+    [SCRIPT_NAME] => /register.phtml
+    [PHP_SELF] => /register.phtml
+    [REQUEST_TIME_FLOAT] => 1606164675.454
+    [REQUEST_TIME] => 1606164675
+)
+Array
+(
+    [username] => test
+    [password] => sdf
+    [confirm_password] => test
+    [pgType] => register
+)
+testing testing|Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_CONNECTION] => keep-alive
+    [CONTENT_LENGTH] => 64
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Raspbian Chromium/78.0.3904.108 Chrome/78.0.3904.108 Safari/537.36
+    [HTTP_SEC_FETCH_USER] => ?1
+    [HTTP_ORIGIN] => http://localhost
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+    [HTTP_SEC_FETCH_SITE] => same-origin
+    [HTTP_SEC_FETCH_MODE] => navigate
+    [HTTP_REFERER] => http://localhost/register.phtml
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => en-GB,en-US;q=0.9,en;q=0.8
+    [HTTP_COOKIE] => _ga=GA1.1.719627613.1586733524; PHPSESSID=don7tolec1s7jkholjeqe2mrkq
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.38 (Raspbian) Server at localhost Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.38 (Raspbian)
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => ::1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => ::1
+    [DOCUMENT_ROOT] => /var/www/html
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/html/register.phtml
+    [REMOTE_PORT] => 46582
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /register.phtml
+    [SCRIPT_NAME] => /register.phtml
+    [PHP_SELF] => /register.phtml
+    [REQUEST_TIME_FLOAT] => 1606165069.263
+    [REQUEST_TIME] => 1606165069
+)
+Array
+(
+    [username] => test
+    [password] => sdf
+    [confirm_password] => test
+    [pgType] => register
+)
+testing testing|Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_CONNECTION] => keep-alive
+    [CONTENT_LENGTH] => 19
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_ORIGIN] => http://localhost
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_USER_AGENT] => Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Raspbian Chromium/78.0.3904.108 Chrome/78.0.3904.108 Safari/537.36
+    [HTTP_SEC_FETCH_USER] => ?1
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+    [HTTP_SEC_FETCH_SITE] => same-origin
+    [HTTP_SEC_FETCH_MODE] => navigate
+    [HTTP_REFERER] => http://localhost/login.phtml
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => en-GB,en-US;q=0.9,en;q=0.8
+    [HTTP_COOKIE] => _ga=GA1.1.719627613.1586733524; PHPSESSID=don7tolec1s7jkholjeqe2mrkq
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.38 (Raspbian) Server at localhost Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.38 (Raspbian)
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => ::1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => ::1
+    [DOCUMENT_ROOT] => /var/www/html
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/html/login.phtml
+    [REMOTE_PORT] => 37012
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /login.phtml
+    [SCRIPT_NAME] => /login.phtml
+    [PHP_SELF] => /login.phtml
+    [REQUEST_TIME_FLOAT] => 1606239078.609
+    [REQUEST_TIME] => 1606239078
+)
+Array
+(
+    [username] => 
+    [password] => 
+)
+testing testing|Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_CONNECTION] => keep-alive
+    [CONTENT_LENGTH] => 19
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Raspbian Chromium/78.0.3904.108 Chrome/78.0.3904.108 Safari/537.36
+    [HTTP_SEC_FETCH_USER] => ?1
+    [HTTP_ORIGIN] => null
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+    [HTTP_SEC_FETCH_SITE] => cross-site
+    [HTTP_SEC_FETCH_MODE] => navigate
+    [HTTP_REFERER] => http://localhost/login.phtml
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => en-GB,en-US;q=0.9,en;q=0.8
+    [HTTP_COOKIE] => _ga=GA1.1.719627613.1586733524; PHPSESSID=don7tolec1s7jkholjeqe2mrkq
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.38 (Raspbian) Server at localhost Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.38 (Raspbian)
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => ::1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => ::1
+    [DOCUMENT_ROOT] => /var/www/html
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/html/login.phtml
+    [REMOTE_PORT] => 50070
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /login.phtml
+    [SCRIPT_NAME] => /login.phtml
+    [PHP_SELF] => /login.phtml
+    [REQUEST_TIME_FLOAT] => 1606240602.988
+    [REQUEST_TIME] => 1606240602
+)
+Array
+(
+    [username] => 
+    [password] => 
+)
+testing testing|Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_CONNECTION] => keep-alive
+    [CONTENT_LENGTH] => 19
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Raspbian Chromium/78.0.3904.108 Chrome/78.0.3904.108 Safari/537.36
+    [HTTP_SEC_FETCH_USER] => ?1
+    [HTTP_ORIGIN] => null
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+    [HTTP_SEC_FETCH_SITE] => cross-site
+    [HTTP_SEC_FETCH_MODE] => navigate
+    [HTTP_REFERER] => http://localhost/login.phtml
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => en-GB,en-US;q=0.9,en;q=0.8
+    [HTTP_COOKIE] => _ga=GA1.1.719627613.1586733524; PHPSESSID=don7tolec1s7jkholjeqe2mrkq
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.38 (Raspbian) Server at localhost Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.38 (Raspbian)
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => ::1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => ::1
+    [DOCUMENT_ROOT] => /var/www/html
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/html/login.phtml
+    [REMOTE_PORT] => 50192
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /login.phtml
+    [SCRIPT_NAME] => /login.phtml
+    [PHP_SELF] => /login.phtml
+    [REQUEST_TIME_FLOAT] => 1606240615.243
+    [REQUEST_TIME] => 1606240615
+)
+Array
+(
+    [username] => 
+    [password] => 
+)
+testing testing|Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_CONNECTION] => keep-alive
+    [CONTENT_LENGTH] => 19
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_ORIGIN] => http://localhost
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_USER_AGENT] => Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Raspbian Chromium/78.0.3904.108 Chrome/78.0.3904.108 Safari/537.36
+    [HTTP_SEC_FETCH_USER] => ?1
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+    [HTTP_SEC_FETCH_SITE] => same-origin
+    [HTTP_SEC_FETCH_MODE] => navigate
+    [HTTP_REFERER] => http://localhost/login.phtml
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => en-GB,en-US;q=0.9,en;q=0.8
+    [HTTP_COOKIE] => _ga=GA1.1.719627613.1586733524; PHPSESSID=don7tolec1s7jkholjeqe2mrkq
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.38 (Raspbian) Server at localhost Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.38 (Raspbian)
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => ::1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => ::1
+    [DOCUMENT_ROOT] => /var/www/html
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/html/login.phtml
+    [REMOTE_PORT] => 50192
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /login.phtml
+    [SCRIPT_NAME] => /login.phtml
+    [PHP_SELF] => /login.phtml
+    [REQUEST_TIME_FLOAT] => 1606240619.687
+    [REQUEST_TIME] => 1606240619
+)
+Array
+(
+    [username] => 
+    [password] => 
+)
+testing testing|Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_CONNECTION] => keep-alive
+    [CONTENT_LENGTH] => 19
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Raspbian Chromium/78.0.3904.108 Chrome/78.0.3904.108 Safari/537.36
+    [HTTP_SEC_FETCH_USER] => ?1
+    [HTTP_ORIGIN] => null
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+    [HTTP_SEC_FETCH_SITE] => cross-site
+    [HTTP_SEC_FETCH_MODE] => navigate
+    [HTTP_REFERER] => http://localhost/login.phtml
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => en-GB,en-US;q=0.9,en;q=0.8
+    [HTTP_COOKIE] => _ga=GA1.1.719627613.1586733524; PHPSESSID=don7tolec1s7jkholjeqe2mrkq
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.38 (Raspbian) Server at localhost Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.38 (Raspbian)
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => ::1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => ::1
+    [DOCUMENT_ROOT] => /var/www/html
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/html/login.phtml
+    [REMOTE_PORT] => 60292
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /login.phtml
+    [SCRIPT_NAME] => /login.phtml
+    [PHP_SELF] => /login.phtml
+    [REQUEST_TIME_FLOAT] => 1606241791.412
+    [REQUEST_TIME] => 1606241791
+)
+Array
+(
+    [username] => 
+    [password] => 
+)
+testing testing|Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_CONNECTION] => keep-alive
+    [CONTENT_LENGTH] => 19
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_ORIGIN] => http://localhost
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_USER_AGENT] => Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Raspbian Chromium/78.0.3904.108 Chrome/78.0.3904.108 Safari/537.36
+    [HTTP_SEC_FETCH_USER] => ?1
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+    [HTTP_SEC_FETCH_SITE] => same-origin
+    [HTTP_SEC_FETCH_MODE] => navigate
+    [HTTP_REFERER] => http://localhost/login.phtml
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => en-GB,en-US;q=0.9,en;q=0.8
+    [HTTP_COOKIE] => _ga=GA1.1.719627613.1586733524; PHPSESSID=don7tolec1s7jkholjeqe2mrkq
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.38 (Raspbian) Server at localhost Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.38 (Raspbian)
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => ::1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => ::1
+    [DOCUMENT_ROOT] => /var/www/html
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/html/login.phtml
+    [REMOTE_PORT] => 60292
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /login.phtml
+    [SCRIPT_NAME] => /login.phtml
+    [PHP_SELF] => /login.phtml
+    [REQUEST_TIME_FLOAT] => 1606241794.167
+    [REQUEST_TIME] => 1606241794
+)
+Array
+(
+    [username] => 
+    [password] => 
+)
+testing testing|Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_CONNECTION] => keep-alive
+    [CONTENT_LENGTH] => 37
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_ORIGIN] => http://localhost
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_USER_AGENT] => Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Raspbian Chromium/78.0.3904.108 Chrome/78.0.3904.108 Safari/537.36
+    [HTTP_SEC_FETCH_USER] => ?1
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+    [HTTP_SEC_FETCH_SITE] => same-origin
+    [HTTP_SEC_FETCH_MODE] => navigate
+    [HTTP_REFERER] => http://localhost/login.phtml
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => en-GB,en-US;q=0.9,en;q=0.8
+    [HTTP_COOKIE] => _ga=GA1.1.719627613.1586733524; PHPSESSID=don7tolec1s7jkholjeqe2mrkq
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.38 (Raspbian) Server at localhost Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.38 (Raspbian)
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => ::1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => ::1
+    [DOCUMENT_ROOT] => /var/www/html
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/html/login.phtml
+    [REMOTE_PORT] => 60420
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /login.phtml
+    [SCRIPT_NAME] => /login.phtml
+    [PHP_SELF] => /login.phtml
+    [REQUEST_TIME_FLOAT] => 1606241808.503
+    [REQUEST_TIME] => 1606241808
+)
+Array
+(
+    [username] => admin123
+    [password] => testertest
+)
+testing testing|Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_CONNECTION] => keep-alive
+    [CONTENT_LENGTH] => 37
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Raspbian Chromium/78.0.3904.108 Chrome/78.0.3904.108 Safari/537.36
+    [HTTP_SEC_FETCH_USER] => ?1
+    [HTTP_ORIGIN] => http://localhost
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+    [HTTP_SEC_FETCH_SITE] => same-origin
+    [HTTP_SEC_FETCH_MODE] => navigate
+    [HTTP_REFERER] => http://localhost/login.phtml
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => en-GB,en-US;q=0.9,en;q=0.8
+    [HTTP_COOKIE] => _ga=GA1.1.719627613.1586733524; PHPSESSID=don7tolec1s7jkholjeqe2mrkq
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.38 (Raspbian) Server at localhost Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.38 (Raspbian)
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => ::1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => ::1
+    [DOCUMENT_ROOT] => /var/www/html
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/html/login.phtml
+    [REMOTE_PORT] => 44438
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /login.phtml
+    [SCRIPT_NAME] => /login.phtml
+    [PHP_SELF] => /login.phtml
+    [REQUEST_TIME_FLOAT] => 1606246517.27
+    [REQUEST_TIME] => 1606246517
+)
+Array
+(
+    [username] => admin123
+    [password] => testertest
+)
+testing testing|Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_CONNECTION] => keep-alive
+    [CONTENT_LENGTH] => 34
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_ORIGIN] => http://localhost
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_USER_AGENT] => Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Raspbian Chromium/78.0.3904.108 Chrome/78.0.3904.108 Safari/537.36
+    [HTTP_SEC_FETCH_USER] => ?1
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+    [HTTP_SEC_FETCH_SITE] => same-origin
+    [HTTP_SEC_FETCH_MODE] => navigate
+    [HTTP_REFERER] => http://localhost/login.phtml
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => en-GB,en-US;q=0.9,en;q=0.8
+    [HTTP_COOKIE] => _ga=GA1.1.719627613.1586733524; PHPSESSID=don7tolec1s7jkholjeqe2mrkq
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.38 (Raspbian) Server at localhost Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.38 (Raspbian)
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => ::1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => ::1
+    [DOCUMENT_ROOT] => /var/www/html
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/html/login.phtml
+    [REMOTE_PORT] => 44440
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /login.phtml
+    [SCRIPT_NAME] => /login.phtml
+    [PHP_SELF] => /login.phtml
+    [REQUEST_TIME_FLOAT] => 1606246525.682
+    [REQUEST_TIME] => 1606246525
+)
+Array
+(
+    [username] => admin
+    [password] => testertest
+)
+testing testing|Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_CONNECTION] => keep-alive
+    [CONTENT_LENGTH] => 34
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Raspbian Chromium/78.0.3904.108 Chrome/78.0.3904.108 Safari/537.36
+    [HTTP_SEC_FETCH_USER] => ?1
+    [HTTP_ORIGIN] => http://localhost
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+    [HTTP_SEC_FETCH_SITE] => same-origin
+    [HTTP_SEC_FETCH_MODE] => navigate
+    [HTTP_REFERER] => http://localhost/login.phtml
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => en-GB,en-US;q=0.9,en;q=0.8
+    [HTTP_COOKIE] => _ga=GA1.1.719627613.1586733524; PHPSESSID=don7tolec1s7jkholjeqe2mrkq
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.38 (Raspbian) Server at localhost Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.38 (Raspbian)
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => ::1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => ::1
+    [DOCUMENT_ROOT] => /var/www/html
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/html/login.phtml
+    [REMOTE_PORT] => 44516
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /login.phtml
+    [SCRIPT_NAME] => /login.phtml
+    [PHP_SELF] => /login.phtml
+    [REQUEST_TIME_FLOAT] => 1606246532.69
+    [REQUEST_TIME] => 1606246532
+)
+Array
+(
+    [username] => admin
+    [password] => testertest
+)
+<|#1|><|#2|><|#2|><|#4|><|SELECT `encrypted_password` FROM `user_db`.`users` WHERE `username` = ?|><|SELECT `encrypted_password` FROM `user_db`.`users` WHERE `username` = ?|><|SELECT `encrypted_password` FROM `user_db`.`users` WHERE `username` = ?|><|INSIDE|><|INSIDE|><|INSIDE|><|INSIDE|><|b109f3bbbc244eb82441917ed06d618b9008dd09b3befd1b5e07394c706a8bb980b1d7785e5976ec049b46df5f1326af5a2ea6d103fd07c95385ffab0cacbc86|><|INSIDE|><|b109f3bbbc244eb82441917ed06d618b9008dd09b3befd1b5e07394c706a8bb980b1d7785e5976ec049b46df5f1326af5a2ea6d103fd07c95385ffab0cacbc86|>|804f50ddbaab7f28c933a95c162d019acbf96afde56dba10e4c7dfcfe453dec4bacf5e78b1ddbdc1695a793bcb5d7d409425db4cc3370e71c4965e4ef992e8c4||||804f50ddbaab7f28c933a95c162d019acbf96afde56dba10e4c7dfcfe453dec4bacf5e78b1ddbdc1695a793bcb5d7d409425db4cc3370e71c4965e4ef992e8c4||||1|804f50ddbaab7f28c933a95c162d019acbf96afde56dba10e4c7dfcfe453dec4bacf5e78b1ddbdc1695a793bcb5d7d409425db4cc3370e71c4965e4ef992e8c4||2|||3|Password123||1|804f50ddbaab7f28c933a95c162d019acbf96afde56dba10e4c7dfcfe453dec4bacf5e78b1ddbdc1695a793bcb5d7d409425db4cc3370e71c4965e4ef992e8c4||2|804f50ddbaab7f28c933a95c162d019acbf96afde56dba10e4c7dfcfe453dec4bacf5e78b1ddbdc1695a793bcb5d7d409425db4cc3370e71c4965e4ef992e8c4||3|Password123||1|804f50ddbaab7f28c933a95c162d019acbf96afde56dba10e4c7dfcfe453dec4bacf5e78b1ddbdc1695a793bcb5d7d409425db4cc3370e71c4965e4ef992e8c4||2|804f50ddbaab7f28c933a95c162d019acbf96afde56dba10e4c7dfcfe453dec4bacf5e78b1ddbdc1695a793bcb5d7d409425db4cc3370e71c4965e4ef992e8c4||3|Password123||1|804f50ddbaab7f28c933a95c162d019acbf96afde56dba10e4c7dfcfe453dec4bacf5e78b1ddbdc1695a793bcb5d7d409425db4cc3370e71c4965e4ef992e8c4||2|804f50ddbaab7f28c933a95c162d019acbf96afde56dba10e4c7dfcfe453dec4bacf5e78b1ddbdc1695a793bcb5d7d409425db4cc3370e71c4965e4ef992e8c4||3|Password123||1|804f50ddbaab7f28c933a95c162d019acbf96afde56dba10e4c7dfcfe453dec4bacf5e78b1ddbdc1695a793bcb5d7d409425db4cc3370e71c4965e4ef992e8c4|
+|2|804f50ddbaab7f28c933a95c162d019acbf96afde56dba10e4c7dfcfe453dec4bacf5e78b1ddbdc1695a793bcb5d7d409425db4cc3370e71c4965e4ef992e8c4|
+|3|Password123|
+|1||
+|2|804f50ddbaab7f28c933a95c162d019acbf96afde56dba10e4c7dfcfe453dec4bacf5e78b1ddbdc1695a793bcb5d7d409425db4cc3370e71c4965e4ef992e8c4|
+|3|Password123|
+|1||
+|2|804f50ddbaab7f28c933a95c162d019acbf96afde56dba10e4c7dfcfe453dec4bacf5e78b1ddbdc1695a793bcb5d7d409425db4cc3370e71c4965e4ef992e8c4|
+|3|Password123|
+|1|804f50ddbaab7f28c933a95c162d019acbf96afde56dba10e4c7dfcfe453dec4bacf5e78b1ddbdc1695a793bcb5d7d409425db4cc3370e71c4965e4ef992e8c4|
+|2|804f50ddbaab7f28c933a95c162d019acbf96afde56dba10e4c7dfcfe453dec4bacf5e78b1ddbdc1695a793bcb5d7d409425db4cc3370e71c4965e4ef992e8c4|
+|3|Password123|
+|1|804f50ddbaab7f28c933a95c162d019acbf96afde56dba10e4c7dfcfe453dec4bacf5e78b1ddbdc1695a793bcb5d7d409425db4cc3370e71c4965e4ef992e8c4|
+|2|804f50ddbaab7f28c933a95c162d019acbf96afde56dba10e4c7dfcfe453dec4bacf5e78b1ddbdc1695a793bcb5d7d409425db4cc3370e71c4965e4ef992e8c4|
+|3|Password123|
+|1|804f50ddbaab7f28c933a95c162d019acbf96afde56dba10e4c7dfcfe453dec4bacf5e78b1ddbdc1695a793bcb5d7d409425db4cc3370e71c4965e4ef992e8c4|
+|2|804f50ddbaab7f28c933a95c162d019acbf96afde56dba10e4c7dfcfe453dec4bacf5e78b1ddbdc1695a793bcb5d7d409425db4cc3370e71c4965e4ef992e8c4|
+|3|Password123|
+testing testing|Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Raspbian Chromium/78.0.3904.108 Chrome/78.0.3904.108 Safari/537.36
+    [HTTP_SEC_FETCH_USER] => ?1
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+    [HTTP_SEC_FETCH_SITE] => same-origin
+    [HTTP_SEC_FETCH_MODE] => navigate
+    [HTTP_REFERER] => http://localhost/login.phtml
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => en-GB,en-US;q=0.9,en;q=0.8
+    [HTTP_COOKIE] => _ga=GA1.1.719627613.1586733524; PHPSESSID=don7tolec1s7jkholjeqe2mrkq
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.38 (Raspbian) Server at localhost Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.38 (Raspbian)
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => ::1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => ::1
+    [DOCUMENT_ROOT] => /var/www/html
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/html/register.phtml
+    [REMOTE_PORT] => 37174
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /register.phtml
+    [SCRIPT_NAME] => /register.phtml
+    [PHP_SELF] => /register.phtml
+    [REQUEST_TIME_FLOAT] => 1606961844.887
+    [REQUEST_TIME] => 1606961844
+)
+Array
+(
+)
+testing testing|Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.141 Safari/537.36
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+    [HTTP_SEC_FETCH_SITE] => same-origin
+    [HTTP_SEC_FETCH_MODE] => navigate
+    [HTTP_SEC_FETCH_USER] => ?1
+    [HTTP_SEC_FETCH_DEST] => document
+    [HTTP_REFERER] => http://localhost/login.phtml
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => en-GB,en-US;q=0.9,en;q=0.8
+    [HTTP_COOKIE] => _ga=GA1.1.719627613.1586733524; PHPSESSID=ev9596jq1iektfqlt83rgop3qo
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.38 (Raspbian) Server at localhost Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.38 (Raspbian)
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => ::1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => ::1
+    [DOCUMENT_ROOT] => /var/www/html
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/html/register.phtml
+    [REMOTE_PORT] => 52824
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /register.phtml
+    [SCRIPT_NAME] => /register.phtml
+    [PHP_SELF] => /register.phtml
+    [REQUEST_TIME_FLOAT] => 1608499725.664
+    [REQUEST_TIME] => 1608499725
+)
+Array
+(
+)
+testing testing|Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_CONNECTION] => keep-alive
+    [CONTENT_LENGTH] => 98
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_ORIGIN] => http://localhost
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_USER_AGENT] => Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.141 Safari/537.36
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+    [HTTP_SEC_FETCH_SITE] => same-origin
+    [HTTP_SEC_FETCH_MODE] => navigate
+    [HTTP_SEC_FETCH_USER] => ?1
+    [HTTP_SEC_FETCH_DEST] => document
+    [HTTP_REFERER] => http://localhost/register.phtml
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => en-GB,en-US;q=0.9,en;q=0.8
+    [HTTP_COOKIE] => _ga=GA1.1.719627613.1586733524; PHPSESSID=ev9596jq1iektfqlt83rgop3qo
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.38 (Raspbian) Server at localhost Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.38 (Raspbian)
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => ::1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => ::1
+    [DOCUMENT_ROOT] => /var/www/html
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/html/register.phtml
+    [REMOTE_PORT] => 52888
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /register.phtml
+    [SCRIPT_NAME] => /register.phtml
+    [PHP_SELF] => /register.phtml
+    [REQUEST_TIME_FLOAT] => 1608499804.075
+    [REQUEST_TIME] => 1608499804
+)
+Array
+(
+    [username] => test
+    [email] => test@hotmail.com
+    [password] => hello123
+    [confirm_password] => hello123
+    [pgType] => register
+)
+testing testing|Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_CONNECTION] => keep-alive
+    [CONTENT_LENGTH] => 76
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_ORIGIN] => http://localhost
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_USER_AGENT] => Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.141 Safari/537.36
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+    [HTTP_SEC_FETCH_SITE] => same-origin
+    [HTTP_SEC_FETCH_MODE] => navigate
+    [HTTP_SEC_FETCH_USER] => ?1
+    [HTTP_SEC_FETCH_DEST] => document
+    [HTTP_REFERER] => http://localhost/register.phtml
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => en-GB,en-US;q=0.9,en;q=0.8
+    [HTTP_COOKIE] => _ga=GA1.1.719627613.1586733524; PHPSESSID=ev9596jq1iektfqlt83rgop3qo
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.38 (Raspbian) Server at localhost Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.38 (Raspbian)
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => ::1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => ::1
+    [DOCUMENT_ROOT] => /var/www/html
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/html/register.phtml
+    [REMOTE_PORT] => 52890
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /register.phtml
+    [SCRIPT_NAME] => /register.phtml
+    [PHP_SELF] => /register.phtml
+    [REQUEST_TIME_FLOAT] => 1608499828.573
+    [REQUEST_TIME] => 1608499828
+)
+Array
+(
+    [username] => 
+    [email] => 
+    [password] => hello123
+    [confirm_password] => hello123
+    [pgType] => register
+)
+testing testing|Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_CONNECTION] => keep-alive
+    [CONTENT_LENGTH] => 98
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_ORIGIN] => http://localhost
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_USER_AGENT] => Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.141 Safari/537.36
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+    [HTTP_SEC_FETCH_SITE] => same-origin
+    [HTTP_SEC_FETCH_MODE] => navigate
+    [HTTP_SEC_FETCH_USER] => ?1
+    [HTTP_SEC_FETCH_DEST] => document
+    [HTTP_REFERER] => http://localhost/register.phtml
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => en-GB,en-US;q=0.9,en;q=0.8
+    [HTTP_COOKIE] => _ga=GA1.1.719627613.1586733524; PHPSESSID=ev9596jq1iektfqlt83rgop3qo
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.38 (Raspbian) Server at localhost Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.38 (Raspbian)
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => ::1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => ::1
+    [DOCUMENT_ROOT] => /var/www/html
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/html/register.phtml
+    [REMOTE_PORT] => 52940
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /register.phtml
+    [SCRIPT_NAME] => /register.phtml
+    [PHP_SELF] => /register.phtml
+    [REQUEST_TIME_FLOAT] => 1608499838.225
+    [REQUEST_TIME] => 1608499838
+)
+Array
+(
+    [username] => test
+    [email] => test@hotmail.com
+    [password] => hello123
+    [confirm_password] => hello123
+    [pgType] => register
+)
+testing testing|Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_CONNECTION] => keep-alive
+    [CONTENT_LENGTH] => 98
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.141 Safari/537.36
+    [HTTP_ORIGIN] => http://localhost
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+    [HTTP_SEC_FETCH_SITE] => same-origin
+    [HTTP_SEC_FETCH_MODE] => navigate
+    [HTTP_SEC_FETCH_USER] => ?1
+    [HTTP_SEC_FETCH_DEST] => document
+    [HTTP_REFERER] => http://localhost/register.phtml
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => en-GB,en-US;q=0.9,en;q=0.8
+    [HTTP_COOKIE] => _ga=GA1.1.719627613.1586733524; PHPSESSID=ev9596jq1iektfqlt83rgop3qo
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.38 (Raspbian) Server at localhost Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.38 (Raspbian)
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => ::1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => ::1
+    [DOCUMENT_ROOT] => /var/www/html
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/html/register.phtml
+    [REMOTE_PORT] => 53336
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /register.phtml
+    [SCRIPT_NAME] => /register.phtml
+    [PHP_SELF] => /register.phtml
+    [REQUEST_TIME_FLOAT] => 1608500115.408
+    [REQUEST_TIME] => 1608500115
+)
+Array
+(
+    [username] => test
+    [email] => test@hotmail.com
+    [password] => hello123
+    [confirm_password] => hello123
+    [pgType] => register
+)
+testing register!testing register!
+#1: |
+#2: |
+#3: |
+#4: |testing register!
+#1: |
+#2: |
+#3: |
+#4: |Inserting..testing register!
+#1: |
+#2: |
+#3: |
+#4: |Inserting..testing register!
+#1: |
+#2: |
+#3: |
+#4: |Inserting..testing register!
+#1: |
+#2: |
+#3: |
+#4: |Inserting..|test||hello123|testing register!
+#1: |
+#2: |
+#3: |
+#4: |Inserting..|test||hello123|testing register!
+#1: |
+#2: |
+#3: |
+#4: |Inserting..|test||hello123|78dc20c6e141a3688dd406c1e6f906a6b8256417db4059b41d09e16776b7aaa6913432d68215bc0ae88302564f24cfa7d1c670b8968af4fe4a033d5901c6d809testing register!
+#1: |
+#2: |
+#3: |
+#4: |Inserting..|test||hello123|78dc20c6e141a3688dd406c1e6f906a6b8256417db4059b41d09e16776b7aaa6913432d68215bc0ae88302564f24cfa7d1c670b8968af4fe4a033d5901c6d809testing register!
+#1: |
+#2: |
+#3: |
+#4: |Inserting..|test||hello123|78dc20c6e141a3688dd406c1e6f906a6b8256417db4059b41d09e16776b7aaa6913432d68215bc0ae88302564f24cfa7d1c670b8968af4fe4a033d5901c6d809testing register!
+#1: |
+#2: |
+#3: |
+#4: |Inserting..|test||hello123|78dc20c6e141a3688dd406c1e6f906a6b8256417db4059b41d09e16776b7aaa6913432d68215bc0ae88302564f24cfa7d1c670b8968af4fe4a033d5901c6d809testing register!
+#1: |
+#2: |
+#3: |
+#4: |Inserting..|test||hello123|78dc20c6e141a3688dd406c1e6f906a6b8256417db4059b41d09e16776b7aaa6913432d68215bc0ae88302564f24cfa7d1c670b8968af4fe4a033d5901c6d809testing register!
+#1: |
+#2: |
+#3: |
+#4: |Inserting..|test||hello123|78dc20c6e141a3688dd406c1e6f906a6b8256417db4059b41d09e16776b7aaa6913432d68215bc0ae88302564f24cfa7d1c670b8968af4fe4a033d5901c6d809testing register!
+#1: |
+#2: |
+#3: |
+#4: |Inserting..|admin||hello123|78dc20c6e141a3688dd406c1e6f906a6b8256417db4059b41d09e16776b7aaa6913432d68215bc0ae88302564f24cfa7d1c670b8968af4fe4a033d5901c6d809Inserting user...|admin||hello123|78dc20c6e141a3688dd406c1e6f906a6b8256417db4059b41d09e16776b7aaa6913432d68215bc0ae88302564f24cfa7d1c670b8968af4fe4a033d5901c6d809Inserting user...|test||hello123|78dc20c6e141a3688dd406c1e6f906a6b8256417db4059b41d09e16776b7aaa6913432d68215bc0ae88302564f24cfa7d1c670b8968af4fe4a033d5901c6d809Inserting user...|test||hello123|78dc20c6e141a3688dd406c1e6f906a6b8256417db4059b41d09e16776b7aaa6913432d68215bc0ae88302564f24cfa7d1c670b8968af4fe4a033d5901c6d809Inserting user...|test1||hello123|78dc20c6e141a3688dd406c1e6f906a6b8256417db4059b41d09e16776b7aaa6913432d68215bc0ae88302564f24cfa7d1c670b8968af4fe4a033d5901c6d809Inserting user...|test1||hello123|78dc20c6e141a3688dd406c1e6f906a6b8256417db4059b41d09e16776b7aaa6913432d68215bc0ae88302564f24cfa7d1c670b8968af4fe4a033d5901c6d809Inserting user...|new_test||hello123|78dc20c6e141a3688dd406c1e6f906a6b8256417db4059b41d09e16776b7aaa6913432d68215bc0ae88302564f24cfa7d1c670b8968af4fe4a033d5901c6d809Inserting user...|new_test||hello123|78dc20c6e141a3688dd406c1e6f906a6b8256417db4059b41d09e16776b7aaa6913432d68215bc0ae88302564f24cfa7d1c670b8968af4fe4a033d5901c6d809Inserting user...|username||test123|daef4953b9783365cad6615223720506cc46c5167cd16ab500fa597aa08ff964eb24fb19687f34d7665f778fcb6c5358fc0a5b81e1662cf90f73a2671c53f991Inserting user...|username||test123|daef4953b9783365cad6615223720506cc46c5167cd16ab500fa597aa08ff964eb24fb19687f34d7665f778fcb6c5358fc0a5b81e1662cf90f73a2671c53f991testing testing|Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_CONNECTION] => keep-alive
+    [CONTENT_LENGTH] => 126
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_ORIGIN] => http://localhost
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_USER_AGENT] => Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.141 Safari/537.36
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+    [HTTP_SEC_FETCH_SITE] => same-origin
+    [HTTP_SEC_FETCH_MODE] => navigate
+    [HTTP_SEC_FETCH_USER] => ?1
+    [HTTP_SEC_FETCH_DEST] => document
+    [HTTP_REFERER] => http://localhost/register.phtml
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => en-GB,en-US;q=0.9,en;q=0.8
+    [HTTP_COOKIE] => _ga=GA1.1.719627613.1586733524; PHPSESSID=fhmlm3dqsg29608gvjl6tkhrup
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.38 (Raspbian) Server at localhost Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.38 (Raspbian)
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => ::1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => ::1
+    [DOCUMENT_ROOT] => /var/www/html
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/html/register.phtml
+    [REMOTE_PORT] => 48992
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /register.phtml
+    [SCRIPT_NAME] => /register.phtml
+    [PHP_SELF] => /register.phtml
+    [REQUEST_TIME_FLOAT] => 1609530873.972
+    [REQUEST_TIME] => 1609530873
+)
+Array
+(
+    [first_name] => first
+    [last_name] => last
+    [username] => username
+    [email] => test@gmail.com
+    [password] => test1
+    [confirm_password] => test1
+    [pgType] => register
+)
+testing testing|Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_CONNECTION] => keep-alive
+    [CONTENT_LENGTH] => 126
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.141 Safari/537.36
+    [HTTP_ORIGIN] => http://localhost
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+    [HTTP_SEC_FETCH_SITE] => same-origin
+    [HTTP_SEC_FETCH_MODE] => navigate
+    [HTTP_SEC_FETCH_USER] => ?1
+    [HTTP_SEC_FETCH_DEST] => document
+    [HTTP_REFERER] => http://localhost/register.phtml
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => en-GB,en-US;q=0.9,en;q=0.8
+    [HTTP_COOKIE] => _ga=GA1.1.719627613.1586733524; PHPSESSID=fhmlm3dqsg29608gvjl6tkhrup
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.38 (Raspbian) Server at localhost Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.38 (Raspbian)
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => ::1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => ::1
+    [DOCUMENT_ROOT] => /var/www/html
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/html/register.phtml
+    [REMOTE_PORT] => 49042
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /register.phtml
+    [SCRIPT_NAME] => /register.phtml
+    [PHP_SELF] => /register.phtml
+    [REQUEST_TIME_FLOAT] => 1609530928.207
+    [REQUEST_TIME] => 1609530928
+)
+Array
+(
+    [first_name] => first
+    [last_name] => last
+    [username] => username
+    [email] => test@gmail.com
+    [password] => test1
+    [confirm_password] => test1
+    [pgType] => register
+)
+testing testing|Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_CONNECTION] => keep-alive
+    [CONTENT_LENGTH] => 126
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.141 Safari/537.36
+    [HTTP_ORIGIN] => http://localhost
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+    [HTTP_SEC_FETCH_SITE] => same-origin
+    [HTTP_SEC_FETCH_MODE] => navigate
+    [HTTP_SEC_FETCH_USER] => ?1
+    [HTTP_SEC_FETCH_DEST] => document
+    [HTTP_REFERER] => http://localhost/register.phtml
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => en-GB,en-US;q=0.9,en;q=0.8
+    [HTTP_COOKIE] => _ga=GA1.1.719627613.1586733524; PHPSESSID=fhmlm3dqsg29608gvjl6tkhrup
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.38 (Raspbian) Server at localhost Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.38 (Raspbian)
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => ::1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => ::1
+    [DOCUMENT_ROOT] => /var/www/html
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/html/register.phtml
+    [REMOTE_PORT] => 51864
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /register.phtml
+    [SCRIPT_NAME] => /register.phtml
+    [PHP_SELF] => /register.phtml
+    [REQUEST_TIME_FLOAT] => 1609534149.08
+    [REQUEST_TIME] => 1609534149
+)
+Array
+(
+    [first_name] => first
+    [last_name] => last
+    [username] => username
+    [email] => test@gmail.com
+    [password] => test1
+    [confirm_password] => test1
+    [pgType] => register
+)
+testing testing|Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.141 Safari/537.36
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+    [HTTP_SEC_FETCH_SITE] => same-origin
+    [HTTP_SEC_FETCH_MODE] => navigate
+    [HTTP_SEC_FETCH_USER] => ?1
+    [HTTP_SEC_FETCH_DEST] => document
+    [HTTP_REFERER] => http://localhost/login.phtml
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => en-GB,en-US;q=0.9,en;q=0.8
+    [HTTP_COOKIE] => _ga=GA1.1.719627613.1586733524; PHPSESSID=fhmlm3dqsg29608gvjl6tkhrup
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.38 (Raspbian) Server at localhost Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.38 (Raspbian)
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => ::1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => ::1
+    [DOCUMENT_ROOT] => /var/www/html
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/html/register.phtml
+    [REMOTE_PORT] => 48938
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /register.phtml
+    [SCRIPT_NAME] => /register.phtml
+    [PHP_SELF] => /register.phtml
+    [REQUEST_TIME_FLOAT] => 1609542150.696
+    [REQUEST_TIME] => 1609542150
+)
+Array
+(
+)
+<<|mysqli_stmt Object
+(
+    [affected_rows] => -1
+    [insert_id] => 0
+    [num_rows] => 0
+    [param_count] => 1
+    [field_count] => 1
+    [errno] => 0
+    [error] => 
+    [error_list] => Array
+        (
+        )
+
+    [sqlstate] => 00000
+    [id] => 1
+)
+|>><<|mysqli_stmt Object
+(
+    [affected_rows] => -1
+    [insert_id] => 0
+    [num_rows] => 0
+    [param_count] => 1
+    [field_count] => 1
+    [errno] => 0
+    [error] => 
+    [error_list] => Array
+        (
+        )
+
+    [sqlstate] => 00000
+    [id] => 1
+)
+|>><<|mysqli_stmt Object
+(
+    [affected_rows] => -1
+    [insert_id] => 0
+    [num_rows] => 0
+    [param_count] => 1
+    [field_count] => 1
+    [errno] => 0
+    [error] => 
+    [error_list] => Array
+        (
+        )
+
+    [sqlstate] => 00000
+    [id] => 1
+)
+|>><<|mysqli_stmt Object
+(
+    [affected_rows] => -1
+    [insert_id] => 0
+    [num_rows] => 0
+    [param_count] => 1
+    [field_count] => 1
+    [errno] => 0
+    [error] => 
+    [error_list] => Array
+        (
+        )
+
+    [sqlstate] => 00000
+    [id] => 2
+)
+|>>|3|<<|mysqli_stmt Object
+(
+    [affected_rows] => -1
+    [insert_id] => 0
+    [num_rows] => 0
+    [param_count] => 1
+    [field_count] => 1
+    [errno] => 0
+    [error] => 
+    [error_list] => Array
+        (
+        )
+
+    [sqlstate] => 00000
+    [id] => 3
+)
+|>>|1|<<|mysqli_stmt Object
+(
+    [affected_rows] => -1
+    [insert_id] => 0
+    [num_rows] => 0
+    [param_count] => 1
+    [field_count] => 1
+    [errno] => 0
+    [error] => 
+    [error_list] => Array
+        (
+        )
+
+    [sqlstate] => 00000
+    [id] => 2
+)
+|>>|3|<<|mysqli_stmt Object
+(
+    [affected_rows] => -1
+    [insert_id] => 0
+    [num_rows] => 0
+    [param_count] => 1
+    [field_count] => 1
+    [errno] => 0
+    [error] => 
+    [error_list] => Array
+        (
+        )
+
+    [sqlstate] => 00000
+    [id] => 4
+)
+|>>|1|<<|mysqli_stmt Object
+(
+    [affected_rows] => -1
+    [insert_id] => 0
+    [num_rows] => 0
+    [param_count] => 1
+    [field_count] => 1
+    [errno] => 0
+    [error] => 
+    [error_list] => Array
+        (
+        )
+
+    [sqlstate] => 00000
+    [id] => 3
+)
+|>>||<<|mysqli_stmt Object
+(
+    [affected_rows] => -1
+    [insert_id] => 0
+    [num_rows] => 0
+    [param_count] => 1
+    [field_count] => 1
+    [errno] => 0
+    [error] => 
+    [error_list] => Array
+        (
+        )
+
+    [sqlstate] => 00000
+    [id] => 4
+)
+|>>|0||3|<<|mysqli_stmt Object
+(
+    [affected_rows] => -1
+    [insert_id] => 0
+    [num_rows] => 0
+    [param_count] => 1
+    [field_count] => 1
+    [errno] => 0
+    [error] => 
+    [error_list] => Array
+        (
+        )
+
+    [sqlstate] => 00000
+    [id] => 5
+)
+|>>|0||1|<<|mysqli_stmt Object
+(
+    [affected_rows] => -1
+    [insert_id] => 0
+    [num_rows] => 0
+    [param_count] => 1
+    [field_count] => 1
+    [errno] => 0
+    [error] => 
+    [error_list] => Array
+        (
+        )
+
+    [sqlstate] => 00000
+    [id] => 6
+)
+|>>|0||2||||3|1|3|1|3|1|3|||1|3|==|tester1||==||==||This username is already taken.|==Insert #1Insert #1Insert #1Insert #2|test_user|daef4953b9783365cad6615223720506cc46c5167cd16ab500fa597aa08ff964eb24fb19687f34d7665f778fcb6c5358fc0a5b81e1662cf90f73a2671c53f991|first||last||f|Insert #1Insert #2|test_user|daef4953b9783365cad6615223720506cc46c5167cd16ab500fa597aa08ff964eb24fb19687f34d7665f778fcb6c5358fc0a5b81e1662cf90f73a2671c53f991|first||last||f|Insert #1Insert #2|test_user|daef4953b9783365cad6615223720506cc46c5167cd16ab500fa597aa08ff964eb24fb19687f34d7665f778fcb6c5358fc0a5b81e1662cf90f73a2671c53f991|first||last||test|Insert #1Insert #2|test_user|daef4953b9783365cad6615223720506cc46c5167cd16ab500fa597aa08ff964eb24fb19687f34d7665f778fcb6c5358fc0a5b81e1662cf90f73a2671c53f991|first||last||test|Insert #1Insert #2|test_user|daef4953b9783365cad6615223720506cc46c5167cd16ab500fa597aa08ff964eb24fb19687f34d7665f778fcb6c5358fc0a5b81e1662cf90f73a2671c53f991|first||last||test|

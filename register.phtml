@@ -1,0 +1,183 @@
+<?php
+
+#!/usr/bin/php
+require "./header.phtml";
+require_once "config.php";
+// Define variables and initialize with empty values
+$first_name = $last_name = $username = $email = $password = $confirm_password = "";
+$username_err = $first_name_err = $last_name_err = $email_err = $password_err = $confirm_password_err = "";
+
+//$mbfs = fopen('/var/www/html/logs/mb.logs', 'a+');
+//fwrite($mbfs, 'testing testing|');
+//fwrite($mbfs, print_r($_SERVER,true));
+//fwrite($mbfs, print_r($_POST,true));
+//fclose($mbfs);
+
+// Processing form data when form is submitted
+if($_SERVER["REQUEST_METHOD"] == "POST"){
+    if(!isset($_POST["username"]) || empty(trim($_POST["username"]))){
+        $username_err = "Please enter a username.";
+    } else{
+        $sql = "SELECT `seq` FROM `user_db`.`users` WHERE `username` = ?";
+        if($stmt = $db->prepare($sql)){
+            $stmt->bind_param("s", $_POST["username"]);
+            $stmt->execute();
+            $stmt->bind_result($user_check);
+            $rows = $stmt->fetch();
+            if (isset($rows) && $rows > 0) {
+                $username_err = "This username is already taken.";
+            } else {
+                $username = trim($_POST["username"]);
+            }
+/*
+            mysqli_stmt_bind_param($stmt, "s", $param_username);
+            // Set parameters
+            $param_username = trim($_POST["username"]);
+            // Attempt to execute the prepared statement
+            if(mysqli_stmt_execute($stmt)){
+                mysqli_stmt_store_result($stmt);
+                if(mysqli_stmt_num_rows($stmt) >= 1){
+                    $username_err = "This username is already taken.";
+                } else{
+                    $username = trim($_POST["username"]);
+                }
+            } else{
+                echo "Oops! Something went wrong. Please try again later.";
+            }
+
+            // Close statement
+            mysqli_stmt_close($stmt);
+*/
+        }
+    }
+    // Validate password
+    if(empty(trim($_POST["password"]))){
+        $password_err = "Please enter a password.";
+    } elseif(strlen(trim($_POST["password"])) < 6){
+        $password_err = "Password must have atleast 6 characters.";
+    } else{
+        $password = trim($_POST["password"]);
+    }
+    // Validate confirm password
+    if(empty(trim($_POST["confirm_password"]))){
+        $confirm_password_err = "Please confirm password.";
+    } else{
+        $confirm_password = trim($_POST["confirm_password"]);
+        if(empty($password_err) && ($password != $confirm_password)){
+            $confirm_password_err = "Passwords did not match.";
+        }
+    }
+    // Check input errors before inserting in database
+    if(empty($username_err) && empty($password_err) && empty($confirm_password_err) && empty($email_err) && empty($first_name_err) && empty($last_name_err)){
+        // Prepare an insert statement
+        $hash = hash('sha512', $_POST['password']);
+        $sql = "INSERT INTO `user_db`.`users` (username, encrypted_password, full_name, email, email_verified, 
+                                              status
+                                     ) VALUES (?, '78dc20c6e141a3688dd406c1e6f906a6b8256417db4059b41d09e16776b7aaa6913432d68215bc0ae88302564f24cfa7d1c670b8968af4fe4a033d5901c6d809', 'tester', ?, 'Y',
+                                              'Testing'
+                                              )";
+//        if ($stmt = $db->prepare($sql)) {
+//$new_username = 'tester3';
+//$new_email = 'test@gmail.com';
+//            $stmt->bind_param('ss', $new_username, $new_email);
+//            $stmt->execute();
+//        }
+
+        $sql = "INSERT INTO `user_db`.`users` (username, encrypted_password, first_name, last_name, full_name, email, status
+                                     ) VALUES (?, ?, ?, ?, ?, ?, 'Testing'
+                                     )";
+        if ($stmt = $db->prepare($sql)) {
+            $full_name = $_POST['first_name']." ".$_POST['last_name'];
+            $stmt->bind_param("ssssss",
+                                 $_POST['username'],
+                                 $hash,
+                                 $_POST['first_name'],
+                                 $_POST['last_name'],
+                                 $full_name,
+                                 $_POST['email']
+                             );
+            $stmt->execute();
+            $_SESSION["username"] = $_POST["username"];
+            header("location: index.phtml");
+        }
+/*
+        if($stmt = mysqli_prepare($link, $sql)){
+            // Bind variables to the prepared statement as parameters
+            mysqli_stmt_bind_param($stmt, "ss", $param_username, $param_password);
+            // Set parameters
+            $param_username = $username;
+            $param_password = password_hash($password, PASSWORD_DEFAULT); // Creates a password hash
+            // Attempt to execute the prepared statement
+            if(mysqli_stmt_execute($stmt)){
+                // Redirect to login page
+                header("location: login.phtml");
+            } else{
+                echo "Something went wrong. Please try again later.";
+            }
+
+            // Close statement
+            mysqli_stmt_close($stmt);
+        }
+*/
+    }
+    // Close connection
+    mysqli_close($link);
+}
+?>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sign Up</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.css">
+    <style type="text/css">
+        body{ font: 14px sans-serif; }
+        .wrapper{ width: 350px; padding: 20px; }
+    </style>
+</head>
+<body>
+    <div class="wrapper">
+        <h2>Sign Up</h2>
+        <p>Please fill this form to create an account.</p>
+        <form action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>" method="post">
+            <div class="form-group <?php echo (!empty($first_name_err)) ? 'has-error' : ''; ?>">
+                <label>First name</label>
+                <input type="text" name="first_name" class="form-control" value="<?php echo $first_name; ?>">
+                <span class="help-block"><?php echo $first_name_err; ?></span>
+            </div>
+            <div class="form-group <?php echo (!empty($last_name_err)) ? 'has-error' : ''; ?>">
+                <label>Last name</label>
+                <input type="text" name="last_name" class="form-control" value="<?php echo $last_name; ?>">
+                <span class="help-block"><?php echo $last_name_err; ?></span>
+            </div>
+            <div class="form-group <?php echo (!empty($username_err)) ? 'has-error' : ''; ?>">
+                <label>Username</label>
+                <input type="text" name="username" class="form-control" value="<?php echo $username; ?>">
+                <span class="help-block"><?php echo $username_err; ?></span>
+            </div>
+            <div class="form-group <?php echo (!empty($email_err)) ? 'has-error' : ''; ?>">
+                <label>Email</label>
+                <input type="text" name="email" class="form-control" value="<?php echo $email; ?>">
+                <span class="help-block"><?php echo $email_err; ?></span>
+            </div>
+            <div class="form-group <?php echo (!empty($password_err)) ? 'has-error' : ''; ?>">
+                <label>Password</label>
+                <input type="password" name="password" class="form-control" value="<?php echo $password; ?>">
+                <span class="help-block"><?php echo $password_err; ?></span>
+            </div>
+            <div class="form-group <?php echo (!empty($confirm_password_err)) ? 'has-error' : ''; ?>">
+                <label>Confirm Password</label>
+                <input type="password" name="confirm_password" class="form-control" value="<?php echo $confirm_password; ?>">
+                <span class="help-block"><?php echo $confirm_password_err; ?></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" class="btn btn-primary" value="Submit">
+                <input type="reset" class="btn btn-default" value="Reset">
+            </div>
+            <p>Already have an account? <a href="login.phtml">Login here</a>.</p>
+            <input type="hidden" id="pgType" name="pgType" value="register">
+        </form>
+    </div>
+</body>
+</html>

@@ -1,0 +1,132 @@
+<?php
+#!/usr/bin/php
+require "./header.phtml";
+require_once "config.php";
+// Define variables and initialize with empty values
+$username = $password = $confirm_password = "";
+$encrypted_password = $entered_password = "";
+$username_err = $password_err = $login_err = "";
+
+/*
+$mbfs = fopen('/var/www/html/logs/mb.logs', 'a+');
+fwrite($mbfs, 'testing testing|');
+fwrite($mbfs, print_r($_SERVER,true));
+fwrite($mbfs, print_r($_POST,true));
+fclose($mbfs);
+*/
+
+// Processing form data when form is submitted
+if($_SERVER["REQUEST_METHOD"] == "POST"){
+    if(empty(trim($_POST["username"]))){
+        $username_err = "Please enter a username.";
+    } elseif (empty($_POST['password'])) {
+        ;
+    } else {
+        // Prepare a select statement
+        $sql = "SELECT `encrypted_password` FROM `user_db`.`users` WHERE `username` = ?";
+        if ($stmt = $db->prepare($sql)) {
+            $stmt->bind_param("s", $_POST["username"]);
+            $stmt->execute();
+
+            $stmt->bind_result($encrypted_password);
+            $stmt->fetch();
+        }
+        $entered_password = hash('sha512', $_POST['password']);
+
+        if ($encrypted_password == '' || $encrypted_password != $entered_password) {
+            $login_err = "The username or password are incorrect.";
+        }
+
+/*
+        if($stmt = mysqli_prepare($link, $sql)){
+            // Bind variables to the prepared statement as parameters
+            mysqli_stmt_bind_param($stmt, "s", $param_username);
+            // Set parameters
+            $param_username = trim($_POST["username"]);
+            // Attempt to execute the prepared statement
+            if(mysqli_stmt_execute($stmt)){
+                mysqli_stmt_store_result($stmt);
+                if(mysqli_stmt_num_rows($stmt) == 0){
+                } else{
+                    $username = trim($_POST["username"]);
+                }
+            } else{
+                echo "Oops! Something went wrong. Please try again later.";
+            }
+
+            // Close statement
+            mysqli_stmt_close($stmt);
+        }
+*/
+    }
+
+    // Check input errors before inserting in database
+    if(empty($username_err) && empty($password_err) && empty($login_err)){
+        $_SESSION["username"] = $_POST["username"];
+        header("location: index.phtml");
+
+/*
+        // Prepare an insert statement
+        $sql = "INSERT INTO `user_db`.`users` (username, password) VALUES (?, ?)";
+        if($stmt = mysqli_prepare($link, $sql)){
+            // Bind variables to the prepared statement as parameters
+            mysqli_stmt_bind_param($stmt, "ss", $param_username, $param_password);
+            // Set parameters
+            $param_username = $username;
+            $param_password = password_hash($password, PASSWORD_DEFAULT); // Creates a password hash
+            // Attempt to execute the prepared statement
+            if(mysqli_stmt_execute($stmt)){
+                // Redirect to login page
+                header("location: login.phtml");
+            } else{
+                echo "Something went wrong. Please try again later.";
+            }
+
+            // Close statement
+            mysqli_stmt_close($stmt);
+        }
+*/
+    }
+    // Close connection
+//    mysqli_close($link);
+
+}
+?>
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sign Up</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.css">
+    <style type="text/css">
+        body{ font: 14px sans-serif; }
+        .wrapper{ width: 350px; padding: 20px; }
+    </style>
+</head>
+<body>
+    <div class="wrapper">
+        <h2>Login</h2>
+        <form action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>" method="post">
+            <div class="form-group <?php echo (!empty($login_err)) ? 'has-error' : ''; ?>">
+                <span class="help-block"><?php echo $login_err; ?></span>
+            </div>
+            <div class="form-group <?php echo (!empty($username_err)) ? 'has-error' : ''; ?>">
+                <label>Username</label>
+                <input type="text" name="username" class="form-control" value="<?php echo $username; ?>">
+                <span class="help-block"><?php echo $username_err; ?></span>
+            </div>
+            <div class="form-group <?php echo (!empty($password_err)) ? 'has-error' : ''; ?>">
+                <label>Password</label>
+                <input type="password" name="password" class="form-control" value="<?php echo $password; ?>">
+                <span class="help-block"><?php echo $password_err; ?></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" class="btn btn-primary" value="Submit" style="width:150px;">
+                <input type="cancel" class="btn btn-default" value="Cancel" style="width:150px;">
+            </div>
+            <p>Don't have an account? <a href="register.phtml">Register here</a>.</p>
+        </form>
+    </div>
+</body>
+</html>

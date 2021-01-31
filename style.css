@@ -1,0 +1,32 @@
+.hm-gradient {
+    background-image: linear-gradient(to top, #f3e7e9 0%, #e3eeff 99%, #e3eeff 100%);
+}
+.navbar .dropdown-menu a:hover {
+    color: #616161 !important;
+}
+.darken-grey-text {
+    color: #2E2E2E;
+}
+.main_colour {
+    background-color: #0066ff;
+}
+.secondary_colour {
+    background-color: #33cc33;
+}
+.hr_separator {
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+.hr_separator::before, .separator::after {
+    content: '';
+    flex: 1;
+    border-bottom: 1px solid #000;
+    text-align: center;
+}
+.hr_separator::before {
+    margin-right: .1em;
+}
+.hr_separator::after {
+    margin-left: .1em;
+}

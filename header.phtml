@@ -1,0 +1,30 @@
+<?php
+session_start();
+require "./header.phtml";
+
+//$db;
+$REMOTE_USER = (isset($_SESSION["username"])?$_SESSION["username"]:"");
+$logged_in = false;
+if ($REMOTE_USER != "") {
+    $logged_in = true;
+}
+
+$dbhost = 'localhost';
+$dbuser = 'root';
+$dbpass = 'Password123';
+$db_name = 'user_db';
+
+$db = new mysqli($dbhost, $dbuser, $dbpass, $db_name);
+
+if ($db->connect_errno) {
+    echo "Failed to connect to MySQL: ".$db->connect_errno;
+    die();
+}
+
+
+function CloseDB() {
+    $db->close();
+}
+
+
+?>
